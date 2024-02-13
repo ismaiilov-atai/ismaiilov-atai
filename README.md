@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Atai</h1>
+<h1 align="center">Hi 👋 I'm Atai</h1>
 <h3 align="center">I am a motivated front-end developer with 3 years of experience. Have a passion for crafting engaging and responsive user interfaces. My proficiency extends across a robust skill set that includes React and NextJS for building dynamic and modular applications. I excel in integrating REST APIs, applying state management libraries for streamlined, efficient handling of application state and incorporating WebSocket for real-time communication</h3>
 
 - 📪 reach out to me: **ataismaiilov@gmail.com**
